@@ -8,9 +8,9 @@ A simple and effective student attendance management system built with PHP and M
 ### 💡 Features
 - Admin & Student login
 - Mark & track attendance by date
-- Class-wise filtering
+- Send sms by twilio 
 - MySQL database integration
-- Deployed on InfinityFree
+- Deployed on vercel
 
 ### 🛠️ Tech Stack
 - PHP
