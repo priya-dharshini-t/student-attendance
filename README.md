@@ -1,6 +1,6 @@
 # 🎓 Student Attendance Management System
 
-A simple and effective student attendance management system built with PHP and MySQL. It includes login systems for both students and admins, attendance tracking, and class-wise reports.
+A simple and effective student attendance management system built with PHP and MySQL. It includes login systems for both students and admins, attendance tracking, and lively sms.
 
 ### 🔗 Live Site
 [Hosted on Vercel](https://student-attendance-chi.vercel.app/) 
@@ -16,4 +16,4 @@ A simple and effective student attendance management system built with PHP and M
 - PHP
 - MySQL
 - HTML/CSS
-- JavaScript (basic)
+- JavaScript 
