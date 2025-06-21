@@ -3,7 +3,7 @@
 A simple and effective student attendance management system built with PHP and MySQL. It includes login systems for both students and admins, attendance tracking, and class-wise reports.
 
 ### 🔗 Live Site
-[Hosted on InfinityFree](https://your-infinityfree-attendance-link.com) <!-- replace with actual link -->
+[Hosted on InfinityFree](https://student-attendance-chi.vercel.app/) 
 
 ### 💡 Features
 - Admin & Student login
